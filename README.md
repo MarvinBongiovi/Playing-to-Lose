@@ -6,4 +6,4 @@ If you simply want to read through the math and results, the HTML version is hig
 
 To actively interact with the code, you will need to download and install the free open-source computer algebra system, wxMaxima. Once opened, you can evaluate the notebook's cells to reproduce the mathematical derivations and equilibria calculations step-by-step.
 
-[Click here to display the HTML version of the calculations in your web browser](https://marvinbongiovi.github.io/Playing-to-Lose-Sub-Game-Perfect-Equilibria-in-Three-Stage-Contests-with-Non-Monotone-Prizes/Playing%20to%20Lose%20-%20HTML%20Notebook.html).
+[Click here to display the HTML version of the calculations in your web browser](https://marvinbongiovi.github.io/Playing-to-Lose/Playing%20to%20Lose%20-%20HTML%20Notebook.html).
